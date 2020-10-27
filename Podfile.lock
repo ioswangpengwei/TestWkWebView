@@ -1,0 +1,21 @@
+PODS:
+  - GPUImage (0.1.7)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - GPUImage (~> 0.1.7)
+  - Masonry (~> 1.1.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+  trunk:
+    - GPUImage
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 500bfc0116ecb8bf0ff3c501a93e4b6bc9fce6fe
+
+COCOAPODS: 1.10.0.beta.1
